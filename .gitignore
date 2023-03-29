@@ -1,4 +1,4 @@
-/draft
+draft/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -129,3 +129,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#IDE specific
+.idea/
+.vscode/
